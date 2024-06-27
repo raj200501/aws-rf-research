@@ -1,4 +1,4 @@
-# AWS Machine Learning Research Fellow Project
+# AWS Project
 
 This repository contains the code and documentation for the AWS Machine Learning Research Fellow project, focusing on advanced ML models for AWS Cloud Radio Frequencies, distributed systems, core OS development, and national security applications.
 
